@@ -1,6 +1,6 @@
 # Bibliography
 
-> Learn to Optimize, See for more detail notes on [Reading_Notes](./Reading_Notes.md)
+> Learn to Optimize, see for more detail notes on [Reading_Notes](./Reading_Notes.md)
 
 Contributed by Qingling Zhu and Weiduo Liao.
 
